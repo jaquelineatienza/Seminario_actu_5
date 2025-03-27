@@ -6,7 +6,7 @@ El proyecto consta de dos versiones: una en **Python** y otra en **JavaScript**.
 
 ## Estructura del Proyecto
 
-project-folder/ ├── python-version/ │ ├── main.py └── javascript-version/ ├── index.js
+project-folder/ ├── python-version/ │ ├── app.py └── javascript-version/ ├── main.js
 
 ## Python Version
 
@@ -14,12 +14,12 @@ project-folder/ ├── python-version/ │ ├── main.py └── javasc
 
 Este script está escrito en Python. Asegúrate de tener Python instalado en tu máquina. Puedes verificar si tienes Python ejecutando:
 
-`python --version`
+`python `
 Si no lo tienes, puedes descargarlo e instalarlo desde python.org.
 
 Ejecuta el script con el siguiente comando:
 
-`python python app.py`
+`python  app.py`
 
 JavaScript Version
 
@@ -49,7 +49,3 @@ Funcionalidades
 
 4. Salir del programa
    Finaliza la ejecución del programa.
-
-```
-
-```
